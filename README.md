@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](contributing.md)
-[![Last Updated](https://img.shields.io/badge/updated-June%202026-blue?style=flat-square)](https://github.com)
+[![Last Updated](https://img.shields.io/badge/updated-June%202026-blue?style=flat-square)](https://github.com/ReadyPixels/cheapest-domain-registrar-awsome-list)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of the cheapest domain registrars, price comparison tools, bulk buying strategies, privacy-first options, and developer APIs - with real 5-year cost data.
