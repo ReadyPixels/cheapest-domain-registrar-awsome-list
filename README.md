@@ -1,5 +1,3 @@
-<div align="center">
-
 # Awesome Cheapest Domain Registrars 🌐
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -11,23 +9,21 @@ A curated list of the cheapest domain registrars, price comparison tools, bulk b
 
 > 💡 **Golden Rule:** Always check the **renewal price**, not just the registration price. A $0.99 first-year deal that renews at $22.99 costs **$92.95 over 5 years** vs. **$44.91 at Spaceship.**
 
-</div>
-
 ---
 
 ## Contents
 
 - [🔍 Price Comparison Tools](#-price-comparison-tools)
-- [🏆 Cheapest Registrars - .com](#-cheapest-registrars--com)
+- [🏆 Cheapest Registrars - .com](#cheapest-registrars-com)
 - [📊 5-Year True Cost (.com)](#-5-year-true-cost-com)
-- [🔄📦 Cheapest Renewal & Transfer - .com and .org](#-cheapest-renewal--transfer--com-and-org)
+- [🔄📦 Cheapest Renewal & Transfer - .com and .org](#-cheapest-renewal-transfer-com-and-org)
 - [💎 Triple-Cheap TLDs](#-triple-cheap-tlds)
 - [🛒 Bulk Domain Buying](#-bulk-domain-buying)
-- [🔒 Privacy-First & Anonymous Registration](#-privacy-first--anonymous-registration)
-- [⚙️ Developer APIs & Automation](#️-developer-apis--automation)
+- [🔒 Privacy-First & Anonymous Registration](#-privacy-first-anonymous-registration)
+- [⚙️ Developer APIs & Automation](#-developer-apis-automation)
 - [💬 Community Resources](#-community-resources)
-- [🗺️ Recommended Workflow](#️-recommended-workflow)
-- [⚠️ Red Flags & Warnings](#️-red-flags--warnings)
+- [🗺️ Recommended Workflow](#-recommended-workflow)
+- [⚠️ Red Flags & Warnings](#-red-flags-warnings)
 - [📈 Domain Market Trends 2026](#-domain-market-trends-2026)
 
 ---
@@ -41,7 +37,7 @@ A curated list of the cheapest domain registrars, price comparison tools, bulk b
 The workhorses. Use these to compare pricing across every TLD and registrar in one shot.
 
 | Tool | Registrars | TLDs | Updates | Standout Feature |
-|------|:----------:|:----:|:-------:|-----------------|
+| --- |:----------:|:----:|:-------:|-----------------|
 | 🥇 <a href="https://tldhub.com" rel="nofollow">TLDHub</a> | 149+ | 3,345+ | Hourly | Widest free coverage; covers gTLDs + ccTLDs; no account needed |
 | 🥈 <a href="https://tldbee.com" rel="nofollow">TLDbee</a> | 50+ | 3,000+ | Real-time | Live-pulls prices directly from registrars; most accurate data available |
 | 🥉 <a href="https://tld-list.com" rel="nofollow">TLD-List</a> | 54 | All mainstream | Near real-time | Shows **historical price trends** and exposes "cheap register, expensive renewal" traps; sort by "Best 3 Year Value" |
@@ -52,6 +48,10 @@ The workhorses. Use these to compare pricing across every TLD and registrar in o
 | <a href="https://www.domaincompare.io" rel="nofollow">DomainCompare.io</a> | Multiple | Broad | N/A | Browse by TLD or registrar; simple interface for quick spot-checks |
 | <a href="https://www.domnest.com/tld-prices" rel="nofollow">Domnest</a> | Multiple | Major TLDs | N/A | Compares domain + **hosting + SSL** prices in one place |
 | <a href="https://namebeta.com" rel="nofollow">NameBeta</a> | 34 | 300-800+ | Daily | Combines availability check + price comparison in a single search |
+| <a href="https://fastdomain.io" rel="nofollow">FastDomain</a> | Multiple | 200+ TLDs | Real-time | Side-by-side registrar comparison; free plan with 1 search/day; portfolio tracker and price alerts |
+| <a href="https://easytlds.com" rel="nofollow">EasyTLDs</a> | 36+ | 3,144+ | 5 min sync | Registration, renewal, and 5-year cost comparison; free domain monitoring dashboard with SSL, uptime, and DNS tracking |
+| <a href="https://priceworld.com/domains" rel="nofollow">PriceWorld</a> | Multiple | Broad | Jun 2026 | 1/3/5-year true cost ranking; Telegram price-drop alerts; includes hidden cost breakdown (WHOIS, transfer, DNS fees) |
+| <a href="https://www.redrecs.com/best-domain-registrar" rel="nofollow">RedRecs</a> | Multiple | Broad | March 2026 | Aggregates Reddit sentiment (4K+ comments analyzed) across r/webdev, r/selfhosted, r/homelab; ranks registrars by community trust |
 
 ---
 
@@ -60,7 +60,7 @@ The workhorses. Use these to compare pricing across every TLD and registrar in o
 Not live tools but invaluable for research, especially before committing to a registrar long-term.
 
 | Resource | Updated | Best For |
-|----------|:-------:|---------|
+| --- |:-------:|---------|
 | <a href="https://domaindetails.com/registrars/cheapest" rel="nofollow">DomainDetails - Cheapest</a> | Monthly | Curated rankings with 5-year true cost tables and feature comparisons |
 | <a href="https://domaindetails.com/registrars/best-2025" rel="nofollow">DomainDetails - Best Registrars</a> | Annual | Comprehensive feature and pricing guide across all major registrars |
 | <a href="https://www.namesilo.com/blog/en/domain-name-search/cheapest-com-domain-registrars-2026-comparing-real-long-term-costs" rel="nofollow">NameSilo Blog - Cheapest .com 2026</a> | 2026 | Long-term cost analysis with renewal trap breakdowns |
@@ -74,7 +74,7 @@ Not live tools but invaluable for research, especially before committing to a re
 When you're targeting a specific country-code or niche extension, general tools often miss the best local registrars.
 
 | Tool | Focus | Standout Feature |
-|------|-------|-----------------|
+| --- |-------|-----------------|
 | <a href="https://tldes.com" rel="nofollow">TLDes</a> | ccTLDs | Specialized for country-code TLDs; surfaces local registrars general tools miss |
 | <a href="https://tldhub.com/tld/" rel="nofollow">TLDHub - ccTLD browse</a> | All 3,345+ TLDs | Filter by TLD category; covers obscure extensions like `.gg`, `.st`, `.ax` |
 | <a href="https://domainoffer.net" rel="nofollow">DomainOffer - per-TLD</a> | Per-TLD deep dives | E.g. <a href="https://domainoffer.net/tld/ai" rel="nofollow">.ai prices</a>, <a href="https://domainoffer.net/tld/io" rel="nofollow">.io prices</a>, <a href="https://domainoffer.net/tld/dev" rel="nofollow">.dev prices</a>; 121+ registrars per TLD |
@@ -87,7 +87,7 @@ When you're targeting a specific country-code or niche extension, general tools 
 These go beyond headline prices to show what you'll **actually pay** including privacy, SSL, and renewal costs.
 
 | Tool | Free | Standout Feature |
-|------|:----:|-----------------|
+| --- |:----:|-----------------|
 | <a href="https://www.domscan.guru" rel="nofollow">DomScan</a> | ✅ | Shows first-year price + renewal + WHOIS privacy cost in one view; covers Namecheap, Cloudflare, Porkbun, Hover, Name.com and more |
 | <a href="https://domscan.net" rel="nofollow">DomScan API</a> | Partial | Developer API for domain intelligence: availability, RDAP, valuation, DNS, SSL health, MCP integration for AI agents |
 | <a href="https://tldspy.com/compare" rel="nofollow">TLDSpy - 5-year view</a> | ✅ | Only tool to show 5-year total ownership cost side-by-side across registrars |
@@ -100,7 +100,7 @@ These go beyond headline prices to show what you'll **actually pay** including p
 <details>
 <summary>Click to expand</summary>
 
-```
+```text
 Most accurate real-time price?        → TLDbee  (live-pulls from registrars)
 Widest registrar + TLD coverage?      → TLDHub  (149+ registrars, 3,345+ TLDs)
 Historical renewal trends?            → TLD-List (sort by "Best 3 Year Value")
@@ -114,6 +114,10 @@ Domain + hosting + SSL bundle?        → Domnest
 Spot-check a single TLD quickly?      → DomainCompare.io
 Curated guide before committing?      → DomainDetails
 Developer / API access?               → TLDSpy API or DomScan API
+Free real-time compare + portfolio tracker? → FastDomain
+5-year cost + domain monitoring dashboard? → EasyTLDs
+Price-drop alerts + hidden cost breakdown? → PriceWorld
+Community trust ranking from Reddit?  → RedRecs
 ```
 
 </details>
@@ -125,7 +129,7 @@ Developer / API access?               → TLDSpy API or DomScan API
 > Prices as of June 2026. Wholesale cost from Verisign: **~$10.26/yr**. Any price below $10.37 is a promo or loss-leader. Cloudflare charges exactly $10.44 (wholesale + $0.18 ICANN fee).
 
 | Registrar | Register | Renewal/yr | Transfer | Privacy | Notes |
-|-----------|:--------:|:----------:|:--------:|:-------:|-------|
+| --- |:--------:|:----------:|:--------:|:-------:|-------|
 | 🥇 <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $4.99* / $9.08 | **$9.98** | Competitive | ✅ Free | Cheapest .com renewal anywhere; owned by Namecheap |
 | 🥈 <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.44 | **$10.44** | $10.44 | ✅ Free | At-cost zero-markup; requires Cloudflare nameservers |
 | 🥉 <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $10.37 | **$10.99** | $8.11 | ✅ Free | Most dev-friendly; no upsells; 3M+ domains managed |
@@ -163,7 +167,7 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 > Renewal is what you pay every year forever. Transfer is a one-time move that locks in a better renewal rate. Both prices verified June 2026 across 148+ registrars. All transfers include +1 year renewal.
 
 | Registrar | .com Renewal | .com Transfer | .org Renewal | .org Transfer | Privacy |
-|-----------|:------------:|:-------------:|:------------:|:-------------:|:-------:|
+| --- |:------------:|:-------------:|:------------:|:-------------:|:-------:|
 | <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | **$9.98** 🥇 | $10.00 | **$10.98** 🥈 | $10.98 | ✅ Free |
 | <a href="https://cloudean.com" rel="nofollow">Cloudean</a> | **$9.98** 🥇 | **$7.97** 🥇 | N/A | N/A | ✅ Free |
 | <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.44 | $10.44 | $11.74 🥉 | $11.74 | ✅ Free |
@@ -189,7 +193,7 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 ### 🏆 All-Three Champions
 
 | TLD | Register | Renewal/yr | Transfer | All-3 Winner |
-|-----|:--------:|:----------:|:--------:|:------------:|
+| --- |:--------:|:----------:|:--------:|:------------:|
 | 🥇 <a href="https://tld-list.com/tld/link" rel="nofollow">.link</a> | $2.27 Spaceship | **$3.99** NameSilo | $3.87 Spaceship | **NameSilo $3.99 flat** |
 | <a href="https://tld-list.com/tld/click" rel="nofollow">.click</a> | $0.64 Spaceship | $9.45 Cosmotown | $7.88 Spaceship | Spaceship (all under $10) |
 | <a href="https://tld-list.com/tld/cyou" rel="nofollow">.cyou</a> | $1.00 Spaceship | $9.50 Spaceship | $7.16 Spaceship | Spaceship (all under $10) |
@@ -207,7 +211,7 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 > ⚠️ All `.dev` domains enforce **HTTPS by default** (HSTS preloaded); SSL certificate required.
 
 | Registrar | Register | Renewal/yr | Transfer | Notes |
-|-----------|:--------:|:----------:|:--------:|-------|
+| --- |:--------:|:----------:|:--------:|-------|
 | <a href="https://sav.com" rel="nofollow">Sav</a> | **$4.99** | $12.68 | $12.68 | 🏅 Cheapest registration |
 | <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $6.84 | $12.62 | $10.16 | 🏅 Cheapest transfer |
 | <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.00 | $12.50 | $11.99 | Solid flat value |
@@ -225,7 +229,7 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 These extensions have ultra-cheap first-year prices but brutal renewals:
 
 | TLD | Register | Renewal | Markup |
-|-----|:--------:|:-------:|:------:|
+| --- |:--------:|:-------:|:------:|
 | `.shop` | $0.85 | $31+ | 36× |
 | `.tech` | $0.99 | $50+ | 50× |
 | `.online` | $0.99 | $39+ | 39× |
@@ -242,7 +246,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 > Deposit $50 once → price drops to $11.05/yr permanently. No ongoing minimum.
 
 | Portfolio Size | .com Price/yr | Savings vs Standard |
-|---------------|:------------:|:-------------------:|
+| --- |:------------:|:-------------------:|
 | Standard (no deposit) | $11.99-$13.99 | N/A |
 | Discount Program ($50 deposit) | **$11.05** | ~$1-$3/yr |
 | 100+ domains | **$8.75** | ~$3/yr |
@@ -251,7 +255,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 ### By Use Case
 
 | Use Case | Registrar | Why |
-|----------|-----------|-----|
+| --- |-----------|-----|
 | 🌐 Single .com - best renewal | <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $9.98/yr, cheapest on market |
 | 🛠️ Developer - no upsells | <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $10.99 flat, free SSL & privacy |
 | ☁️ Cloudflare DNS user | <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | At-cost, full API, zero markup |
@@ -270,7 +274,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 > For activists, journalists, and whistleblowers facing state-level threats.
 
 | Registrar | Jurisdiction | How it Works | Crypto | KYC |
-|-----------|:-----------:|-------------|:------:|:---:|
+| --- |:-----------:|-------------|:------:|:---:|
 | 🥇 <a href="https://njal.la" rel="nofollow">Njalla</a> | Saint Kitts & Nevis | Njalla **owns the domain** on your behalf; you're legally a "user," no registrant data. Founded by Peter Sunde (co-founder of The Pirate Bay). Proven track record of resisting government demands. ⚠️ You rely on Njalla's contract/trust since they hold the domain | XMR, BTC, ETH, ZEC | ❌ None |
 | <a href="https://incognet.io" rel="nofollow">IncogNet</a> | Outside Five Eyes | Registers under their own info; your name never appears. Well-regarded in r/privacy and LowEndTalk communities | Crypto | ❌ None |
 | <a href="https://hostcay.com/offshore-domains" rel="nofollow">HostCay</a> | Offshore | Explicitly markets to free press & whistleblowers | BTC | ❌ None |
@@ -283,7 +287,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 > ICANN-accredited; will respond to valid legal orders, but strong WHOIS protection and transparency.
 
 | Registrar | Jurisdiction | Privacy Model | Transparency Report |
-|-----------|:-----------:|--------------|:------------------:|
+| --- |:-----------:|--------------|:------------------:|
 | <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | USA | "Withheld for Privacy": contact not even shared with their own privacy provider | ✅ |
 | <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | USA | "Super Privacy Service": full redaction | ✅ |
 | <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | USA | WHOIS redacted by default; no third party needed | ✅ |
@@ -292,7 +296,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 ### 🛡️ Threat Level Guide
 
 | Threat Level | Best Pick |
-|-------------|-----------|
+| --- |-----------|
 | 🟢 General privacy / avoid spam | Any registrar with free WHOIS privacy (Porkbun, NameSilo, Cloudflare) |
 | 🟡 Journalist / moderate risk | **Namecheap**: "Withheld for Privacy" model, contact not held by privacy provider |
 | 🔴 Activist / high-risk government | **Njalla**: owns domain for you, no KYC, crypto, Caribbean jurisdiction |
@@ -303,7 +307,7 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 Even the best registrar alone isn't enough. Combine with:
 
 | Layer | Tool | Why |
-|-------|------|-----|
+| --- |------|-----|
 | 💸 Payment | <a href="https://getmonero.org" rel="nofollow">Monero (XMR)</a> | Only truly untraceable crypto; Bitcoin is traceable on-chain |
 | 📧 Email | <a href="https://proton.me" rel="nofollow">ProtonMail</a> or <a href="https://tuta.com" rel="nofollow">Tutanota</a> | No phone verification; jurisdiction outside US/UK |
 | 🌐 Network | VPN or <a href="https://torproject.org" rel="nofollow">Tor Browser</a> | Hides your IP from the registrar |
@@ -316,7 +320,7 @@ Even the best registrar alone isn't enough. Combine with:
 ## ⚙️ Developer APIs & Automation
 
 | API | Free Tier | Monthly Cost | TLDs | Best For |
-|-----|:---------:|:------------:|:----:|---------|
+| --- |:---------:|:------------:|:----:|---------|
 | <a href="https://tldspy.com" rel="nofollow">TLDSpy API</a> | ✅ Limited | $39-$89/mo | 2,100+ | Price comparison, WHOIS, DNS, SSL checks |
 | <a href="https://developers.cloudflare.com/registrar/" rel="nofollow">Cloudflare API</a> | N/A | $0 at-cost | 200+ | Full registrar automation if on Cloudflare |
 | <a href="https://www.namecheap.com/support/api/intro/" rel="nofollow">Namecheap API</a> | Requires $50 balance | Free w/ balance | 560+ | Full automation, Terraform provider available |
@@ -337,7 +341,7 @@ curl "https://api.tldspy.com/api/v1/prices?tlds=com,net&registrars=porkbun,cloud
 ### Reddit
 
 | Subreddit | Focus |
-|-----------|-------|
+| --- |-------|
 | <a href="https://reddit.com/r/Domains" rel="nofollow">r/Domains</a> | Primary hub for registrar comparisons and TLD discussions; TLD-List and TLDHub are community recommendations |
 | <a href="https://reddit.com/r/webdev" rel="nofollow">r/webdev</a> | API tools, domain automation; TLDSpy was launched here |
 | <a href="https://reddit.com/r/selfhosted" rel="nofollow">r/selfhosted</a> | Cheap registrars for homelab/personal use; strong TLD-List advocacy |
@@ -402,8 +406,11 @@ curl "https://api.tldspy.com/api/v1/prices?tlds=com,net&registrars=porkbun,cloud
 
 1. **TLDSpy API** - Scheduled price checks across registrars
 2. **DomScan** - MCP integration for AI agent workflows
-3. **Cloudflare API** or **Namecheap API** - Full domain management automation
-4. **VebAPI** - Bulk availability checks and smart name generation
+3. **EasyTLDs** - Free domain monitoring dashboard with SSL, uptime, and renewal alerts
+4. **PriceWorld** - Telegram price-drop alerts and 1/3/5-year cost projections
+5. **Cloudflare API** or **Namecheap API** - Full domain management automation
+6. **VebAPI** - Bulk availability checks and smart name generation
+7. **RedRecs** - Community trust rankings before committing to a registrar
 
 ---
 
@@ -424,7 +431,7 @@ Domain.com: $5.00 → $37.99/yr  (+659%)    ❌  (worst .org offender)
 ## 📈 Domain Market Trends 2026
 
 | Trend | Details |
-|-------|---------|
+| --- |-------|
 | 🆕 **ICANN New gTLD Round** | Application window: **April 30 - August 12, 2026**; first new gTLD round since 2012; 27 scripts (Arabic, Chinese, Thai...) supported |
 | 🔥 **.ai explosion** | 89% growth in 2024; 28% of tech startups use it; aftermarket avg $6,500+; cheapest: <a href="https://domainoffer.net/tld/ai" rel="nofollow">Epik at $74.95/yr</a> |
 | 📉 **.com flat** | .com+.net combined at 171.9M names (Q3 2025); renewal rates ~75% (down from 80%+ historically); first time showing modest growth |
@@ -436,7 +443,7 @@ Domain.com: $5.00 → $37.99/yr  (+659%)    ❌  (worst .org offender)
 ### 🔭 Trending TLDs Worth Watching
 
 | TLD | Avg Price | Status | Notes |
-|-----|:---------:|:------:|-------|
+| --- |:---------:|:------:|-------|
 | <a href="https://domainoffer.net/tld/ai" rel="nofollow">.ai</a> | $80-160/yr | 🔥 Hottest | 89% growth in 2024; 28% of tech startups; Epik cheapest at $74.95 |
 | <a href="https://tld-list.com/tld/io" rel="nofollow">.io</a> | $40-50/yr | 💪 Popular | Tech/startup staple; high registry pricing across the board |
 | <a href="https://tldhub.com/dev" rel="nofollow">.dev</a> | $10-13/yr | 🛠️ Growing | Developer-focused; HTTPS mandatory; Cloudflare cheapest flat at $10.18 |
@@ -458,8 +465,4 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 
 ---
 
-<div align="center">
-
-*Last updated: June 2026 · Prices verified via <a href="https://tldhub.com" rel="nofollow">TLDHub</a> and <a href="https://tldbee.com" rel="nofollow">TLDbee</a>*
-
-</div>
+Last updated: June 2026 · Prices verified via [TLDHub](https://tldhub.com) and [TLDbee](https://tldbee.com)
