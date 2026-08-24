@@ -2,12 +2,14 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](contributing.md)
-[![Last Updated](https://img.shields.io/badge/updated-June%202026-blue?style=flat-square)](https://github.com/ReadyPixels/cheapest-domain-registrar-awsome-list)
+[![Last Updated](https://img.shields.io/badge/updated-August%202026-blue?style=flat-square)](https://github.com/ReadyPixels/cheapest-domain-registrar-awsome-list)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of the cheapest domain registrars, price comparison tools, bulk buying strategies, privacy-first options, and developer APIs - with real 5-year cost data.
 
-> 💡 **Golden Rule:** Always check the **renewal price**, not just the registration price. A $0.99 first-year deal that renews at $22.99 costs **$92.95 over 5 years** vs. **$44.91 at Spaceship.**
+> 💡 **Golden Rule:** Always check the **renewal price**, not just the registration price. A $0.99 first-year deal that renews at $22.99 costs **$92.95 over 5 years** vs. **$43.62 at Spaceship.**
+
+> 🚨 **August 2026 alert:** Verisign raises the .com wholesale fee from **$10.26 to $10.97** on **November 1, 2026** (+6.9%). With the $0.18 ICANN fee, the at-cost floor moves from $10.44 to **$11.15**. Expect every registrar below to reprice .com in Q4 2026. Three more annual hikes of up to 7% are permitted, which would put wholesale near **$13.42** by the end of the current contract cycle. **Renew or lock in multi-year terms before November 1.**
 
 ---
 
@@ -43,7 +45,7 @@ The workhorses. Use these to compare pricing across every TLD and registrar in o
 | 🥉 <a href="https://tld-list.com" rel="nofollow">TLD-List</a> | 54 | All mainstream | Near real-time | Shows **historical price trends** and exposes "cheap register, expensive renewal" traps; sort by "Best 3 Year Value" |
 | <a href="https://tldspy.com/compare" rel="nofollow">TLDSpy</a> | 50+ | 2,100+ | Daily | Side-by-side compare up to 5 registrars; shows **5-year total ownership cost**; has a REST API |
 | <a href="https://domcomp.com" rel="nofollow">Domcomp</a> | 54 | Broad | Real-time | Beginner-friendly UI; auto-applies coupon codes at checkout |
-| <a href="https://domainoffer.net/price-compare" rel="nofollow">DomainOffer</a> | 151+ | 3,344 | Daily | Tracks active **promo start/end dates** and price change history per TLD |
+| <a href="https://domainoffer.net/price-compare" rel="nofollow">DomainOffer</a> | 153+ | 3,344 | Daily | Tracks active **promo start/end dates** and price change history per TLD |
 | <a href="https://tldprice.org" rel="nofollow">TLDPrice</a> | 13+ | Major TLDs | Daily | Renewal-focused; clean registrar pages (e.g. <a href="https://tldprice.org/registrar/cloudflare" rel="nofollow">Cloudflare pricing</a>) |
 | <a href="https://www.domaincompare.io" rel="nofollow">DomainCompare.io</a> | Multiple | Broad | N/A | Browse by TLD or registrar; simple interface for quick spot-checks |
 | <a href="https://www.domnest.com/tld-prices" rel="nofollow">Domnest</a> | Multiple | Major TLDs | N/A | Compares domain + **hosting + SSL** prices in one place |
@@ -52,6 +54,8 @@ The workhorses. Use these to compare pricing across every TLD and registrar in o
 | <a href="https://easytlds.com" rel="nofollow">EasyTLDs</a> | 36+ | 3,144+ | 5 min sync | Registration, renewal, and 5-year cost comparison; free domain monitoring dashboard with SSL, uptime, and DNS tracking |
 | <a href="https://priceworld.com/domains" rel="nofollow">PriceWorld</a> | Multiple | Broad | Jun 2026 | 1/3/5-year true cost ranking; Telegram price-drop alerts; includes hidden cost breakdown (WHOIS, transfer, DNS fees) |
 | <a href="https://www.redrecs.com/best-domain-registrar" rel="nofollow">RedRecs</a> | Multiple | Broad | March 2026 | Aggregates Reddit sentiment (4K+ comments analyzed) across r/webdev, r/selfhosted, r/homelab; ranks registrars by community trust |
+| <a href="https://app.kit.domains/tools/compare-pricing" rel="nofollow">KIT.domains Compare</a> | Multiple | Broad | Live | Free registration + renewal + transfer comparison in a single view; no signup |
+| <a href="https://cfdomainpricing.com" rel="nofollow">CFDomainPricing</a> | 1 (Cloudflare) | 400+ | Daily | Tracks Cloudflare Registrar at-cost pricing across every TLD it supports |
 
 ---
 
@@ -118,6 +122,8 @@ Free real-time compare + portfolio tracker? → FastDomain
 5-year cost + domain monitoring dashboard? → EasyTLDs
 Price-drop alerts + hidden cost breakdown? → PriceWorld
 Community trust ranking from Reddit?  → RedRecs
+Cloudflare at-cost price for any TLD?  → CFDomainPricing
+Fast free 3-way compare, no signup?    → KIT.domains
 ```
 
 </details>
@@ -126,19 +132,22 @@ Community trust ranking from Reddit?  → RedRecs
 
 ## 🏆 Cheapest Registrars - .com
 
-> Prices as of June 2026. Wholesale cost from Verisign: **~$10.26/yr**. Any price below $10.37 is a promo or loss-leader. Cloudflare charges exactly $10.44 (wholesale + $0.18 ICANN fee).
+> Prices verified **August 2026**. Wholesale cost from Verisign: **$10.26/yr**, rising to **$10.97 on Nov 1, 2026**. Add the $0.18 ICANN fee and the true at-cost floor is **$10.44** today, **$11.15** from November. Anything below that is a promo or a loss-leader.
 
 | Registrar | Register | Renewal/yr | Transfer | Privacy | Notes |
 | --- |:--------:|:----------:|:--------:|:-------:|-------|
-| 🥇 <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $4.99* / $9.08 | **$9.98** | Competitive | ✅ Free | Cheapest .com renewal anywhere; owned by Namecheap |
-| 🥈 <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.44 | **$10.44** | $10.44 | ✅ Free | At-cost zero-markup; requires Cloudflare nameservers |
-| 🥉 <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $10.37 | **$10.99** | $8.11 | ✅ Free | Most dev-friendly; no upsells; 3M+ domains managed |
-| <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.88 | **$10.88** | Competitive | ✅ Free | Flat pricing: registration = renewal; 500+ TLDs |
-| <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | $11.99 | **$10.99** | $8.39 | ✅ Free | Best for bulk; volume discounts to $7.75/yr |
-| <a href="https://unstoppabledomains.com/dns-pricing" rel="nofollow">Unstoppable Domains</a> | $7.99 | **$10.99** | $7.99-$9.99 | ✅ Free | Domainer Club (free); up to 700 transfers/week |
-| <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | $5.98* / $10.98 | **$13.98** | $8.88 | ✅ Free | Frequent promos but watch the renewal hike |
+| 🥇 <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $2.90* / $9.48 | **$10.18** | $3.94* / $8.17 | ✅ Free | Cheapest renewal among the majors; at or below wholesale. Codes: `COMPROS`, `SPSCOMTR` |
+| 🥈 <a href="https://cloudean.com" rel="nofollow">Cloudean</a> | $7.50 | **$9.98** | $7.97 | ✅ Free | Lowest renewal on the market, no promo code needed; smaller newer registrar |
+| 🥉 <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.46 | **$10.46** | $10.46 | ✅ Free | At-cost zero-markup; 400+ TLDs; requires Cloudflare nameservers |
+| <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.88 | **$10.88** | $10.88 | ✅ Free | Flat pricing: registration = renewal = transfer; 500+ TLDs |
+| <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $11.08 | **$11.08** | $11.08 | ✅ Free | Most dev-friendly; all fees included; no upsells |
+| <a href="https://unstoppabledomains.com/dns-pricing" rel="nofollow">Unstoppable Domains</a> | $5.99** | **$10.00** | $7.99-$9.99 | ✅ Free | Domainer Club (free); up to 700 transfers/week; offers rotate fast |
+| ⚠️ <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | $17.29 | **$17.29** | $8.39 | ✅ Free | Standard price jumped in 2026; only competitive via the Discount Program ($11.05 down to $7.75) |
+| ⚠️ <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | $5.98* / $10.98 | **$18.48** | $8.88 | ✅ Free | Renewal climbed from $13.98 to $18.48; promos no longer offset it |
 
-> \* Promo/intro price
+> \* Promo/intro price, code required · \*\* Rotating limited-time offer
+>
+> ⚠️ **What changed since June 2026:** NameSilo's standard .com went $10.99 to **$17.29**, Namecheap's renewal went $13.98 to **$18.48**, Porkbun moved to a flat **$11.08**, and Spaceship's renewal drifted $9.98 to **$10.18**. Cloudean is the new renewal leader at $9.98.
 
 ---
 
@@ -147,40 +156,43 @@ Community trust ranking from Reddit?  → RedRecs
 > The only number that actually matters. Includes registration year 1 + 4 renewals + privacy (all free).
 
 ```
-Registrar              Year 1    × 4 Renewals   5-Year Total
-───────────────────────────────────────────────────────────
-🥇 Spaceship            $4.99*  + $9.98 × 4  =  $44.91  ✅ CHEAPEST
-   Unstoppable Domains  $7.99   + $10.99 × 4 =  $51.95
-   Cloudflare           $10.44  + $10.44 × 4 =  $52.20
+Registrar              Year 1    × 4 Renewals    5-Year Total
+────────────────────────────────────────────────────────────
+🥇 Spaceship            $2.90*  + $10.18 × 4 =  $43.62  ✅ CHEAPEST
+   Unstoppable Domains  $5.99** + $10.00 × 4 =  $45.99
+   Cloudean             $7.50   + $9.98  × 4 =  $47.42   (no code needed)
+   Cloudflare           $10.46  + $10.46 × 4 =  $52.30
    Dynadot              $10.88  + $10.88 × 4 =  $54.40
-   Porkbun              $10.99  + $10.99 × 4 =  $54.95
-   NameSilo             $10.99  + $10.99 × 4 =  $54.95
-   Namecheap            $5.98*  + $13.98 × 4 =  $61.90
-───────────────────────────────────────────────────────────
-* Promo/intro price
+   NameSilo (Discount)  $11.05  + $11.05 × 4 =  $55.25   ($50 deposit)
+   Porkbun              $11.08  + $11.08 × 4 =  $55.40
+   Namecheap            $10.98  + $18.48 × 4 =  $84.90  ⚠️
+   NameSilo (standard)  $17.29  + $17.29 × 4 =  $86.45  ❌
+────────────────────────────────────────────────────────────
+* Promo/intro price (code required)   ** Rotating limited-time offer
 ```
+
+> ⚠️ These totals use today's renewal rates. The Nov 1, 2026 wholesale increase adds about **$0.71/yr per domain** at every at-cost registrar, roughly **$2.84** onto each 5-year total from year 2 onward.
 
 ---
 
 ## 🔄📦 Cheapest Renewal & Transfer - .com and .org
 
-> Renewal is what you pay every year forever. Transfer is a one-time move that locks in a better renewal rate. Both prices verified June 2026 across 148+ registrars. All transfers include +1 year renewal.
+> Renewal is what you pay every year forever. Transfer is a one-time move that locks in a better renewal rate. Prices verified **August 2026** across 149+ registrars. All transfers include +1 year renewal.
 
 | Registrar | .com Renewal | .com Transfer | .org Renewal | .org Transfer | Privacy |
 | --- |:------------:|:-------------:|:------------:|:-------------:|:-------:|
-| <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | **$9.98** 🥇 | $10.00 | **$10.98** 🥈 | $10.98 | ✅ Free |
-| <a href="https://cloudean.com" rel="nofollow">Cloudean</a> | **$9.98** 🥇 | **$7.97** 🥇 | N/A | N/A | ✅ Free |
-| <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.44 | $10.44 | $11.74 🥉 | $11.74 | ✅ Free |
-| <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $10.99 | **$8.11** 🥈 | $13.48 | $11.98 | ✅ Free |
-| <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.88 | $9.99 | $13.99 | $12.99 | ✅ Free |
-| <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | $10.99 | **$8.39** 🥉 | $12.99 | **$10.49** 🥈 | ✅ Free |
-| <a href="https://unstoppabledomains.com/dns-pricing" rel="nofollow">Unstoppable Domains</a> | $10.99 | $9.99 | N/A | **$7.48** 🥇 | ✅ Free |
-| <a href="https://nicnames.com" rel="nofollow">NicNames</a> | N/A | N/A | **$9.93** 🥇 | N/A | ✅ Free |
-| ⚠️ <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | $13.98 | $8.88 | N/A | $8.88 | ✅ Free |
+| <a href="https://cloudean.com" rel="nofollow">Cloudean</a> | **$9.98** 🥇 | $7.97 🥈 | **$10.71** 🥇 | N/A | ✅ Free |
+| <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $10.18 🥈 | **$3.94** 🥇 `SPSCOMTR` | $11.59 🥉 | **$3.44** 🥇 `SPST25` | ✅ Free |
+| <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.46 🥉 | $10.46 | **$11.20** 🥈 | $11.20 | ✅ Free |
+| <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.88 | $10.88 | $11.64 | $12.99 | ✅ Free |
+| <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $11.08 | $11.08 | $11.84 | $11.84 | ✅ Free |
+| <a href="https://unstoppabledomains.com/dns-pricing" rel="nofollow">Unstoppable Domains</a> | $10.00 | $7.99-$9.99 | N/A | $7.48 🥉 | ✅ Free |
+| ⚠️ <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | $17.29 | $8.39 🥉 | $12.99 | $10.49 🥈 | ✅ Free |
+| ⚠️ <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | $18.48 | $8.88 | N/A | $8.88 | ✅ Free |
 
-> 🏅 **Medal = cheapest in that column.** Namecheap transfer looks cheap but renewal spikes; factor that in.
+> 🏅 **Medal = cheapest in that column.** Namecheap and NameSilo transfers look cheap but their renewals now spike hard; factor that in.
 >
-> 💡 **Power strategy:** Transfer to <a href="https://cloudean.com" rel="nofollow">Cloudean</a> (cheapest .com transfer at $7.97) or <a href="https://unstoppabledomains.com/dns-pricing" rel="nofollow">Unstoppable Domains</a> (cheapest .org transfer at $7.48), then after 60 days move to <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> for the lowest flat renewal forever at zero markup.
+> 💡 **Power strategy:** Transfer in cheap with <a href="https://spaceship.com" rel="nofollow">Spaceship</a> (`SPSCOMTR` $3.94 for .com, `SPST25` $3.44 for .org), then decide where it lives long term: **Cloudean** for the lowest renewal ($9.98), **Spaceship** for a safe low renewal at scale, or <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> for guaranteed at-cost pricing forever. ICANN applies a 60-day transfer lock after every move.
 >
 > 🔗 Live data: <a href="https://tld-list.com/tld/com" rel="nofollow">TLD-List .com</a> · <a href="https://tld-list.com/tld/org" rel="nofollow">TLD-List .org</a> · <a href="https://domainoffer.net/tld/com" rel="nofollow">DomainOffer .com</a> · <a href="https://domainoffer.net/tld/org" rel="nofollow">DomainOffer .org</a>
 
@@ -194,15 +206,15 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 
 | TLD | Register | Renewal/yr | Transfer | All-3 Winner |
 | --- |:--------:|:----------:|:--------:|:------------:|
-| 🥇 <a href="https://tld-list.com/tld/link" rel="nofollow">.link</a> | $2.27 Spaceship | **$3.99** NameSilo | $3.87 Spaceship | **NameSilo $3.99 flat** |
+| 🥇 <a href="https://tld-list.com/tld/link" rel="nofollow">.link</a> | $0.99 Namecheap `99SPECIAL` | **$5.00** Amazon Registrar | $3.87 Spaceship `SPST25` | **Amazon $5.00 renewal** |
 | <a href="https://tld-list.com/tld/click" rel="nofollow">.click</a> | $0.64 Spaceship | $9.45 Cosmotown | $7.88 Spaceship | Spaceship (all under $10) |
 | <a href="https://tld-list.com/tld/cyou" rel="nofollow">.cyou</a> | $1.00 Spaceship | $9.50 Spaceship | $7.16 Spaceship | Spaceship (all under $10) |
 | <a href="https://tld-list.com/tld/bond" rel="nofollow">.bond</a> | $1.06 Spaceship | $9.50 Spaceship | $7.58 Spaceship | Spaceship (all under $10) |
 | <a href="https://tld-list.com/tld/cc" rel="nofollow">.cc</a> | $2.40 Porkbun | $8.26 Cosmotown | $8.26 Cosmotown | Cosmotown (renew = transfer) |
 | <a href="https://tld-list.com/tld/xyz" rel="nofollow">.xyz</a> | $0.98 Spaceship | $10.45 Cosmotown | $9.88 Spaceship | Cosmotown (renew = transfer) |
-| <a href="https://tld-list.com/tld/com" rel="nofollow">.com</a> | $4.99 Spaceship | $9.98 Spaceship | $8.17 Spaceship | Spaceship sweeps all three |
+| <a href="https://tld-list.com/tld/com" rel="nofollow">.com</a> | $2.90 Spaceship | $9.98 Cloudean | $3.94 Spaceship | Spaceship on entry, Cloudean on renewal |
 
-> 🏆 **.link at NameSilo** - the only mainstream TLD with a single flat price (**$3.99**) for all three actions. Free WHOIS privacy. No surprises, ever.
+> 🏆 **.link** is still the cheapest mainstream TLD to hold long term: **$5.00/yr** flat at Amazon Registrar ($15 for 3 years, $25 for 5). NameSilo's old $3.99 flat rate ended with its 2026 repricing.
 
 ---
 
@@ -212,15 +224,15 @@ Registrar              Year 1    × 4 Renewals   5-Year Total
 
 | Registrar | Register | Renewal/yr | Transfer | Notes |
 | --- |:--------:|:----------:|:--------:|-------|
-| <a href="https://sav.com" rel="nofollow">Sav</a> | **$4.99** | $12.68 | $12.68 | 🏅 Cheapest registration |
-| <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $6.84 | $12.62 | $10.16 | 🏅 Cheapest transfer |
+| 🥇 <a href="https://sav.com" rel="nofollow">Sav</a> | **$4.99** | $12.68 | $12.68 | 🏅 Cheapest registration; best 5-year total at $55.71 |
+| <a href="https://nicnames.com" rel="nofollow">NicNames</a> | Varies | **$12.00** | $12.00 | 🏅 Cheapest renewal of any registrar |
+| <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $6.84 | $12.62 | **$6.44** `SPST25` | 🏅 Cheapest transfer |
+| <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $8.75* / $12.87 | $12.87 | $12.87 | Free SSL included ✅ |
+| <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $12.20 | $12.20 | $12.20 | Flat all three at wholesale cost |
 | <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | $10.00 | $12.50 | $11.99 | Solid flat value |
-| <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $9.81 | $12.85 | $11.87 | Free SSL included ✅ |
-| 🥇 <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | $10.18 | **$10.18** | **$10.18** | **Flat all 3 at wholesale cost** |
-| <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | $11.99 | $11.99 | $11.49 | Cheapest transfer among flat registrars |
 | ❌ <a href="https://namecheap.com" rel="nofollow">Namecheap</a> | $13.18 | $21.18 | $16.18 | High renewal; avoid |
 
-> 🏆 **.dev winner:** <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> at **$10.18 flat** for all three: at-cost, no markup, no surprises.
+> 🏆 **.dev winner:** <a href="https://sav.com" rel="nofollow">Sav</a> at $4.99 year one then $12.68/yr, the lowest 5-year total. For a flat, never-surprises price, <a href="https://nicnames.com" rel="nofollow">NicNames</a> at **$12.00/yr** is now cheaper than Cloudflare, whose .dev at-cost price sits at $12.20.
 
 ---
 
@@ -243,27 +255,27 @@ These extensions have ultra-cheap first-year prices but brutal renewals:
 
 ### NameSilo Discount Program
 
-> Deposit $50 once → price drops to $11.05/yr permanently. No ongoing minimum.
+> NameSilo's standard .com jumped to **$17.29** in 2026, so the Discount Program is no longer optional if you buy in volume. Deposit $50 in account funds once and the price drops to $11.05/yr permanently. Discounts apply to registrations and renewals paid from account funds only, not to transfers or drop-catching.
 
 | Portfolio Size | .com Price/yr | Savings vs Standard |
 | --- |:------------:|:-------------------:|
-| Standard (no deposit) | $11.99-$13.99 | N/A |
-| Discount Program ($50 deposit) | **$11.05** | ~$1-$3/yr |
-| 100+ domains | **$8.75** | ~$3/yr |
-| 5,000+ domains | **$7.75** | ~$4/yr |
+| Standard (no deposit) | $17.29 | N/A |
+| Discount Program ($50 deposit) | **$11.05** | ~$6.24/yr |
+| 100+ domains | **$8.75** | ~$8.54/yr |
+| 5,000+ domains | **$7.75** | ~$9.54/yr |
 
 ### By Use Case
 
 | Use Case | Registrar | Why |
 | --- |-----------|-----|
-| 🌐 Single .com - best renewal | <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $9.98/yr, cheapest on market |
-| 🛠️ Developer - no upsells | <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $10.99 flat, free SSL & privacy |
+| 🌐 Single .com - best renewal | <a href="https://cloudean.com" rel="nofollow">Cloudean</a> or <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $9.98/yr and $10.18/yr, the only sub-wholesale renewals left |
+| 🛠️ Developer - no upsells | <a href="https://porkbun.com" rel="nofollow">Porkbun</a> | $11.08 flat, all fees included, free SSL & privacy |
 | ☁️ Cloudflare DNS user | <a href="https://domains.cloudflare.com" rel="nofollow">Cloudflare</a> | At-cost, full API, zero markup |
-| 📦 Bulk / PBN | <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | Volume discounts to $7.75/yr at 5,000+ domains |
+| 📦 Bulk / PBN | <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | Discount Program required in 2026: $11.05/yr, down to $7.75/yr at 5,000+ domains |
 | 🔄 Bulk transfers | <a href="https://unstoppabledomains.com" rel="nofollow">Unstoppable Domains</a> | Domainer Club (free to join): $7.67/com, up to 700/week |
 | 🌍 500+ TLD coverage | <a href="https://dynadot.com" rel="nofollow">Dynadot</a> | Flat single-tier pricing: registration = renewal = transfer |
 | 🛍️ E-commerce / WooCommerce | <a href="https://porkbun.com" rel="nofollow">Porkbun</a> or <a href="https://namesilo.com" rel="nofollow">NameSilo</a> | Transparent pricing, free privacy, no upsells |
-| 💰 Cheapest first year | <a href="https://unstoppabledomains.com" rel="nofollow">Unstoppable Domains</a> | $7.99/com (Domainer Club: $7.67), no lock-in |
+| 💰 Cheapest first year | <a href="https://spaceship.com" rel="nofollow">Spaceship</a> | $2.90/com with code `COMPROS`, renews at $10.18 |
 
 ---
 
@@ -421,10 +433,16 @@ curl "https://api.tldspy.com/api/v1/prices?tlds=com,net&registrars=porkbun,cloud
 Many registrars advertise ultra-low first-year prices that spike dramatically on renewal. Always verify renewal before registering:
 
 ```
-Namecheap:  $5.98 → $13.98/yr  (+133%)    ⚠️
-Spaceship:  $4.99 → $9.98/yr   (+100%)    ✅  (still cheapest renewal overall)
+Spaceship:  $2.90 → $10.18/yr  (+251%)    ✅  (still at/below wholesale)
+Cloudean:   $7.50 → $9.98/yr   (+33%)     ✅  (lowest renewal on market)
+Namecheap:  $5.98 → $18.48/yr  (+209%)    ⚠️  (renewal up 32% since June 2026)
+NameSilo:   $17.29 flat                   ⚠️  (Discount Program brings it to $11.05)
 Domain.com: $5.00 → $37.99/yr  (+659%)    ❌  (worst .org offender)
 ```
+
+### 🟠 The Silent Repricing Trap
+
+Registrars now raise **renewal** prices on existing customers between billing cycles, not just at signup. NameSilo went $10.99 → $17.29 and Namecheap $13.98 → $18.48 in a single quarter, and Verisign's Nov 1, 2026 wholesale increase will push every at-cost registrar up again. Check your auto-renew price each quarter, and lock in multi-year terms at flat-price registrars before November.
 
 ---
 
@@ -432,27 +450,29 @@ Domain.com: $5.00 → $37.99/yr  (+659%)    ❌  (worst .org offender)
 
 | Trend | Details |
 | --- |-------|
-| 🆕 **ICANN New gTLD Round** | Application window: **April 30 - August 12, 2026**; first new gTLD round since 2012; 27 scripts (Arabic, Chinese, Thai...) supported |
-| 🔥 **.ai explosion** | 89% growth in 2024; 28% of tech startups use it; aftermarket avg $6,500+; cheapest: <a href="https://domainoffer.net/tld/ai" rel="nofollow">Epik at $74.95/yr</a> |
-| 📉 **.com flat** | .com+.net combined at 171.9M names (Q3 2025); renewal rates ~75% (down from 80%+ historically); first time showing modest growth |
+| 🆕 **ICANN New gTLD Round closed** | Window closed **Aug 12, 2026** with **1,600+ primary applications** (1,100+ including replacement strings); first round since 2012. "Reveal Day" and evaluation follow; new strings reach the root in 2027-2028 |
+| 🔥 **.ai explosion** | 28% of tech startups use it; aftermarket avg $6,500+; cheapest flat price: <a href="https://spaceship.com" rel="nofollow">Spaceship at $68.98/yr</a>, then <a href="https://domainoffer.net/tld/ai" rel="nofollow">Epik at $74.95/yr</a> |
+| 💸 **.com wholesale rising** | Verisign raises .com from **$10.26 to $10.97 on Nov 1, 2026** (+6.9%), the first of up to four annual 7% hikes; wholesale could reach **~$13.42** by the end of the contract cycle |
+| 📈 **DNS still growing** | **401.6M** domain names registered worldwide at the end of Q2 2026, up 6.5% year over year; .com+.net combined at **176.1M** (Q1 2026) |
 | 📈 **New gTLDs growing** | 14% annual growth; 39.5M active domains; 54% of startups now use nTLDs as primary |
-| 🌍 **ccTLDs resilient** | 1,593 total active TLDs in IANA root database (Feb 2026); 1.9% global ccTLD growth in 2024; EU stagnating; US & APAC growing |
+| 🌍 **ccTLDs resilient** | 1,593 total active TLDs in IANA root database (Feb 2026); 1.9% global ccTLD growth; EU stagnating; US & APAC growing |
+| ⚠️ **Registrar repricing wave** | NameSilo standard .com $10.99 → $17.29 and Namecheap renewal $13.98 → $18.48 in 2026; discount programs and at-cost registrars now separate the cheap from the expensive |
 | 🇪🇺 **NIS2 Directive (EU)** | Stricter data verification and abuse-handling for registrars enforced in 2026 |
-| 🆕 **Instant Domain Search** | Launched as ICANN-accredited registrar in 2026 |
+| 🆕 **Instant Domain Search** | Launched as ICANN-accredited registrar in 2026; sub-25ms search across 800+ TLDs |
 
 ### 🔭 Trending TLDs Worth Watching
 
 | TLD | Avg Price | Status | Notes |
 | --- |:---------:|:------:|-------|
-| <a href="https://domainoffer.net/tld/ai" rel="nofollow">.ai</a> | $80-160/yr | 🔥 Hottest | 89% growth in 2024; 28% of tech startups; Epik cheapest at $74.95 |
+| <a href="https://domainoffer.net/tld/ai" rel="nofollow">.ai</a> | $69-160/yr | 🔥 Hottest | 28% of tech startups; **Spaceship $68.98 flat** is the best long-term price; Epik $74.95 flat; Cloudflare $80.00 at-cost |
 | <a href="https://tld-list.com/tld/io" rel="nofollow">.io</a> | $40-50/yr | 💪 Popular | Tech/startup staple; high registry pricing across the board |
-| <a href="https://tldhub.com/dev" rel="nofollow">.dev</a> | $10-13/yr | 🛠️ Growing | Developer-focused; HTTPS mandatory; Cloudflare cheapest flat at $10.18 |
+| <a href="https://tldhub.com/dev" rel="nofollow">.dev</a> | $12-13/yr | 🛠️ Growing | Developer-focused; HTTPS mandatory; NicNames cheapest flat at $12.00; Sav cheapest entry at $4.99 |
 | <a href="https://tld-list.com/tld/tech" rel="nofollow">.tech</a> | $0.99→$50+/yr | 🚀 Startup signal | Used by tech companies as brand domain; beware promo trap |
 | <a href="https://tld-list.com/tld/pro" rel="nofollow">.pro</a> | $6-12/yr | 💼 Professional | Good for service-based businesses; reasonable renewal |
 | <a href="https://tld-list.com/tld/shop" rel="nofollow">.shop</a> | $0.85→$31+/yr | 🛍️ E-commerce | Semantic fit for stores; **beware promo trap**: renewal is 36x register |
 | <a href="https://tld-list.com/tld/store" rel="nofollow">.store</a> | $0.85→$87+/yr | 🛒 E-commerce | Similar to .shop; **worst renewal trap**: 102x markup |
 | <a href="https://tld-list.com/tld/online" rel="nofollow">.online</a> | $0.99→$39+/yr | 🌐 Versatile | Registration as low as $2.43 at Unstoppable Domains; renewal spikes sharply |
-| <a href="https://tld-list.com/tld/link" rel="nofollow">.link</a> | $3.99/yr | 💎 Best value | Cheapest triple-flat TLD (register + renew + transfer) at NameSilo |
+| <a href="https://tld-list.com/tld/link" rel="nofollow">.link</a> | $5.00/yr | 💎 Best value | Cheapest flat-renewal mainstream TLD, at Amazon Registrar; $0.99 first year at Namecheap with `99SPECIAL` |
 | <a href="https://tld-list.com/tld/click" rel="nofollow">.click</a> | $0.64 reg | 💰 Ultra-cheap | Sub-dollar registration; $9.45 renewal at Cosmotown |
 
 ---
@@ -465,4 +485,6 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 
 ---
 
-Last updated: June 2026 · Prices verified via [TLDHub](https://tldhub.com) and [TLDbee](https://tldbee.com)
+Last updated: **August 24, 2026** · Prices verified via <a href="https://domainoffer.net/price-compare" rel="nofollow">DomainOffer</a>, <a href="https://tldprice.org" rel="nofollow">TLDPrice</a>, <a href="https://tldhub.com" rel="nofollow">TLDHub</a>, <a href="https://tldbee.com" rel="nofollow">TLDbee</a>, and registrar pricing pages
+
+> ⏰ **Next scheduled repricing:** November 1, 2026 (Verisign .com wholesale $10.26 → $10.97). This list will be re-verified after that date.
