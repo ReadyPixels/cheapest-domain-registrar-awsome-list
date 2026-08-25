@@ -56,6 +56,10 @@ The workhorses. Use these to compare pricing across every TLD and registrar in o
 | <a href="https://www.redrecs.com/best-domain-registrar" rel="nofollow">RedRecs</a> | Multiple | Broad | March 2026 | Aggregates Reddit sentiment (4K+ comments analyzed) across r/webdev, r/selfhosted, r/homelab; ranks registrars by community trust |
 | <a href="https://app.kit.domains/tools/compare-pricing" rel="nofollow">KIT.domains Compare</a> | Multiple | Broad | Live | Free registration + renewal + transfer comparison in a single view; no signup |
 | <a href="https://cfdomainpricing.com" rel="nofollow">CFDomainPricing</a> | 1 (Cloudflare) | 400+ | Daily | Tracks Cloudflare Registrar at-cost pricing across every TLD it supports |
+| <a href="https://dot.bs" rel="nofollow">dot.bs</a> | 147 | 3,127+ | Regular | Availability check across 2,900+ TLDs plus a free account to store and re-check your domain list; lowest-price guarantee |
+| <a href="https://tld-list.org" rel="nofollow">TLD-List.org</a> | 57 | All mainstream | Regular | Per-extension view of cheapest registration, cheapest renewal, and best **3-year** registrar; separate project from tld-list.com |
+| <a href="https://www.tldprice.com" rel="nofollow">TLDPrice.com</a> | 54 | Major TLDs | Daily scan | Registration, renewal, and transfer side by side with a visible "prices updated" timestamp; separate project from tldprice.org |
+| <a href="https://www.webhostingbids.com" rel="nofollow">WebHostingBids</a> | 56 | Broad | Every few hours | Long-running comparison covering domains **and** hosting; useful cross-check, but the site design and some copy are dated |
 
 ---
 
@@ -124,6 +128,9 @@ Price-drop alerts + hidden cost breakdown? → PriceWorld
 Community trust ranking from Reddit?  → RedRecs
 Cloudflare at-cost price for any TLD?  → CFDomainPricing
 Fast free 3-way compare, no signup?    → KIT.domains
+Widest coverage after TLDHub?          → dot.bs (147 registrars, 3,127+ TLDs)
+Best 3-year value per extension?       → TLD-List.org
+Track your own domain list for free?   → dot.bs (free account) or EasyTLDs
 ```
 
 </details>
