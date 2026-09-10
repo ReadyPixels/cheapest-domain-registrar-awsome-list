@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a <a href="code-of-conduct.md" rel="nofollow">Contributor Code of Conduct</a>. By participating in this project you agree to abide by its terms.
 
 ## Adding to This List
 
@@ -11,7 +11,7 @@ To add something to this list, please:
 - Make an individual pull request for each suggestion.
 - Use the format: `[Name](link) - Description.`
 - Descriptions should be short, clear, and start with a capital letter and end with a period.
-- For pricing data, always include a source link to a live comparison tool (TLDHub, TLDbee, or TLD-List) — not a registrar's own marketing page.
+- For pricing data, always include a source link to a live comparison tool (TLDHub, TLDbee, or TLD-List) - not a registrar's own marketing page.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
@@ -20,13 +20,14 @@ To add something to this list, please:
 
 Domain prices change frequently. To update pricing:
 
-1. Verify the new price on at least **two** of: [TLDHub](https://tldhub.com), [TLDbee](https://tldbee.com), [TLD-List](https://tld-list.com).
+1. Verify the new price on at least **two** of: <a href="https://tldhub.com" rel="nofollow">TLDHub</a>, <a href="https://tldbee.com" rel="nofollow">TLDbee</a>, <a href="https://tld-list.com" rel="nofollow">TLD-List</a>.
 2. Include a source link in your PR description.
 3. Note the date the price was verified.
 
 ## Reporting Outdated Information
 
 If you notice outdated pricing or policy information, please open an issue with:
+
 - The outdated data
 - The correct current data
 - A source link

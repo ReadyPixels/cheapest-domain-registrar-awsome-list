@@ -1,11 +1,13 @@
 # Awesome Cheapest Domain Registrars 🌐
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](contributing.md)
-[![Last Updated](https://img.shields.io/badge/updated-September%202026-blue?style=flat-square)](https://github.com/ReadyPixels/cheapest-domain-registrar-awsome-list)
-[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://awesome.re" rel="nofollow"><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a>
+<a href="CONTRIBUTING.md" rel="nofollow"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+<a href="https://github.com/ReadyPixels/cheapest-domain-registrar-awsome-list" rel="nofollow"><img alt="Last Updated" src="https://img.shields.io/badge/updated-September%202026-blue?style=flat-square"></a>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"><img alt="License: CC0" src="https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square"></a>
 
 A curated list of the cheapest domain registrars, price comparison tools, bulk buying strategies, privacy-first options, and developer APIs - with real 5-year cost data.
+
+Prices are re-verified monthly using public comparison tools and registrar pricing pages.
 
 > 💡 **Golden Rule:** Always check the **renewal price**, not just the registration price. A $0.99 first-year deal that renews at $22.99 costs **$92.95 over 5 years** vs. **$43.62 at Spaceship.**
 
@@ -500,7 +502,7 @@ Cheap is not the same as safe. ICANN terminated **two** registrar accreditations
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Please read the <a href="CONTRIBUTING.md" rel="nofollow">contribution guidelines</a> first.
 
 > 💡 Prices change frequently. If you spot outdated pricing, open a PR with a source link from <a href="https://tldhub.com" rel="nofollow">TLDHub</a>, <a href="https://tldbee.com" rel="nofollow">TLDbee</a>, or <a href="https://tld-list.com" rel="nofollow">TLD-List</a>.
 
